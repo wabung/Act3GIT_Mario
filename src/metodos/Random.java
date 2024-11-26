@@ -1,7 +1,5 @@
 package metodos;
 
-
-
 public class Random {
 
 	public static void main(String[] args) {
@@ -18,8 +16,6 @@ public class Random {
 					arrayAzul[i] = arrayAzul[i]/10.0;
 						
 					System.out.println(arrayAzul[i] + " y posicionnnnnn " + i);
+		}
 	}
-}
-
-
 }
