@@ -17,7 +17,7 @@ public class Random {
 					arrayAzul[i] = (int) arrayAzul[i];
 					arrayAzul[i] = arrayAzul[i]/10.0;
 						
-					System.out.println(arrayAzul[i] + " y posicion " + i);
+					System.out.println(arrayAzul[i] + " y posicionnnnnn " + i);
 	}
 }
 
