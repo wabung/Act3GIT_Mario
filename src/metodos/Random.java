@@ -8,7 +8,7 @@ public class Random {
 		// TODO Auto-generated method stub
 
 
-				int nElementos = 20;
+				int nElementos = 30;
 				double[] arrayAzul = new double[nElementos];
 				
 				for(int i=0; i<nElementos; i++) {
