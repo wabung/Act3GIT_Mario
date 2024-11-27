@@ -17,5 +17,9 @@ public class Random {
 						
 					System.out.println(arrayAzul[i] + " y posicionnnnnn " + i);
 		}
+				System.out.println("\nNúmeros en orden inverso:");
+		        for (int i = nElementos - 1; i >= 0; i--) {
+		            System.out.println(arrayAzul[i] + " y posicionnnnnn " + i);
+		        }
 	}
 }
